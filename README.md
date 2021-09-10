@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/tuki9ko">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tuki9ko&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/tuki9ko">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuki9ko&layout=compact&theme=dracula&langs_count=6&exclude_repo=rails_sample_app&hide=html,css,scss" />
+</a>
+
 <!--
 **tuki9ko/tuki9ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
