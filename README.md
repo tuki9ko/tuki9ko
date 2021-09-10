@@ -1,5 +1,13 @@
+### Github Profile Trophy
+
 <a href="https://github.com/tuki9ko">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tuki9ko&count_private=true&show_icons=true&theme=dracula" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tuki9ko&column=8&theme=dracula" />
+</a>
+
+### Github Readme Stats
+
+<a href="https://github.com/tuki9ko">
+    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tuki9ko&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/tuki9ko">
     <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuki9ko&layout=compact&theme=dracula&langs_count=6&exclude_repo=rails_sample_app&hide=html,css,scss" />
