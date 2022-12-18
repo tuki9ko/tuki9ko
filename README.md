@@ -7,10 +7,10 @@
 ### Github Readme Stats
 
 <a href="https://github.com/tuki9ko">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tuki9ko&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
+    <img align="left" height="170px" src="https://github-readme-stats-tuki9ko.vercel.app/api?username=tuki9ko&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="https://github.com/tuki9ko">
-    <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuki9ko&layout=compact&theme=dracula&langs_count=6&exclude_repo=rails_sample_app&hide=html,css,scss" />
+    <img align="left" height="170px" src="https://github-readme-stats-tuki9ko.vercel.app/api/top-langs/?username=tuki9ko&layout=compact&theme=dracula&langs_count=6&exclude_repo=rails_sample_app&hide=html,css,scss&count_private=true" />
 </a>
 
 <!--
